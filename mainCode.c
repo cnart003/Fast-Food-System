@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Developed by Caleb Nartey
+
 // structure
 // order structure from assignment
 struct order {
