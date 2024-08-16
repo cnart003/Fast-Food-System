@@ -33,7 +33,7 @@ This is a simple C program that simulates a basic restaurant order management sy
 
 3. **Place Orders:** Follow the prompts to place an order. You can enter multiple orders in one session.
 
-4. **Sales Summary:** After completing orders, the program will display a final sales summary and save it to *salesBook.txt*.
+4. **Sales Summary:** After completing orders, the program will display a final sales summary and save it to **'salesBook.txt'**.
 
 ## Example Menu
 
