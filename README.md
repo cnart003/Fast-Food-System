@@ -26,7 +26,14 @@ This is a simple C program that simulates a basic restaurant order management sy
 1. **Compile the Program**: Use a C compiler to compile the program.
    ```bash
    gcc -o restaurant_order_system restaurant_order_system.c
-   
+
+2. **Run the Program:** After compiling, run the executable:
+   ```bash
+   ./restaurant_order_system
+
+3. **Place Orders:** Follow the prompts to place an order. You can enter multiple orders in one session.
+
+4. **Sales Summary:** After completing orders, the program will display a final sales summary and save it to *salesBook.txt*.
 
 ## Example Menu
 
